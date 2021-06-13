@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Kaythea",
+    "comment": "",
+    "allyCode": "962955455",
+    "userIcon": "",
+    "tagIdOnDrop": "324734545293213704",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "just a name, not used by the bot",
+    "comment": "just a commment, not used by the bot",
+    "allyCode": "987456321",
+    "tagIdOnDrop": "000000000000000000",
+    "userIcon": "Hello there, :skull_crossbones:",
+    "tagIdOnClimb" : ""
+  },
+  {
+    "name": "",
+    "comment": "if skip:true -> bot will ignore this ally code",
+    "allyCode": "987456323",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": true
+  },
+  {
+    "name": "",
+    "comment": "adding & in front of the discord id will tag the role",
+    "allyCode": "987456324",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "&000000000000000000",
+    "userIcon": ""
+  }
+]
